@@ -1,7 +1,4 @@
-/* dsiplay: block
-         inline
-         inline-block
-         none; */
+
 .nika1 {
     color: blue;
     font-size: 20px;
@@ -175,6 +172,7 @@
     color: blue;
     margin-top: 7px;
     margin-bottom: 7px;
+    font-family: "ALK Tall Nusxuri", sans-serif;
 }
 
 header {
@@ -186,7 +184,6 @@ header {
     background-color: blue;
     height: 56px;
     margin-left: 5px;
-    padding: 0px;
     font-size: 37px;
     color: chartreuse;
 
